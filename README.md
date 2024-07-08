@@ -13,3 +13,4 @@
 ```npm install @babel/core @babel/preset-env @babel/preset-react babel-loader commander fs-extra git-promise html-webpack-plugin inquirer nanospinner webpack webpack-chain webpack-cli webpack-dev-server axios --save
 ```
 # zmp
+- zmp init -t https://static.zhufengpeixun.com/template_1680930323773.json
